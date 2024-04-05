@@ -25,9 +25,9 @@ git clone https://github.com/your-username/your-repository.git
 
 
 1. Open a terminal
-2. Go inside the report directory
+2. Go inside the ```report``` directory
 3. Run the following command:
 
-```
+```bash
 php -S localhost:8888 -t public
 ```
