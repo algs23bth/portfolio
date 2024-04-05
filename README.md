@@ -21,7 +21,8 @@ To clone this project, follow these steps:
 git clone https://github.com/your-username/your-repository.git
 ```
 
-How to run:
+## How to run the program
+
 
 1. Open a terminal
 2. Go inside the report directory
